@@ -1,3 +1,6 @@
+// Author: Lucas Jesus
+// System Information Curse on 3º Period
+
 #include <stdio.h>
 #include <stdlib.h>
 
